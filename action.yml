@@ -1,4 +1,4 @@
-name: "Kubernetes Action"
+name: "kubernetes-action-awscli-eks"
 description: "Interacts with kubernetes clusters calling kubectl commands. Integrates support for AWS EKS."
 branding:
   icon: 'anchor'  
